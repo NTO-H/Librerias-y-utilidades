@@ -9,4 +9,5 @@
 - [Notyf](https://carlosroso.com/notyf/)
 - [SweetAlert](https://sweetalert.js.org/guides/)
 - [NgNotyf](https://github.com/jdjuan/ng-notyf)
+- [PrimeNgToast](https://primeng.org/toast)
 
