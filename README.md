@@ -1,6 +1,7 @@
 # Categorías Populares
 
 - [Toast y/o alertas](#toast-yo-alertas)
+- [Email](#Email-apis)
 
 ## Librerías
 
@@ -10,4 +11,5 @@
 - [SweetAlert](https://sweetalert.js.org/guides/)
 - [NgNotyf](https://github.com/jdjuan/ng-notyf)
 - [PrimeNgToast](https://primeng.org/toast)
-
+## Email apis
+-[Smtpjs](https://smtpjs.com/) read  but use documentation
