@@ -1,11 +1,10 @@
 # Categorías Populares
 
-- [Toast y/o alertas](https://example.com/toast-alertas)
+- [Toast y/o alertas](#toast-yo-alertas)
 
-## Librerias
+## Librerías
 
-### Alertas
-
+### Toast y/o alertas
 - [Toastr](https://codeseven.github.io/toastr/demo.html)
 - [Notyf](https://carlosroso.com/notyf/)
 - [SweetAlert](https://sweetalert.js.org/guides/)
