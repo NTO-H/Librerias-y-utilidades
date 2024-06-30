@@ -11,5 +11,6 @@
 - [SweetAlert](https://sweetalert.js.org/guides/)
 - [NgNotyf](https://github.com/jdjuan/ng-notyf)
 - [PrimeNgToast](https://primeng.org/toast)
+
 ## Email apis
--[Smtpjs](https://smtpjs.com/) read documentation for use 
+- [Smtpjs](https://smtpjs.com/) read documentation for use 
