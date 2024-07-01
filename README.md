@@ -14,3 +14,4 @@
 
 ## Email apis
 - [Smtpjs](https://smtpjs.com/) read documentation for use 
+- [Brevo](https://developers.brevo.com/docs/getting-started)
