@@ -9,6 +9,7 @@
 - [Toastr](https://codeseven.github.io/toastr/demo.html)
 - [Notyf](https://carlosroso.com/notyf/)
 - [SweetAlert](https://sweetalert.js.org/guides/)
+- [SweetAlert2](https://sweetalert2.github.io/)
 - [NgNotyf](https://github.com/jdjuan/ng-notyf)
 - [PrimeNgToast](https://primeng.org/toast)
 
