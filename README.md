@@ -5,6 +5,9 @@
 
 ## Librerías
 
+### Animaciones scroll
+- [Aos]([https://codeseven.github.io/toastr/demo.html](https://michalsnik.github.io/aos/))
+
 ### Toast y/o alertas
 - [Toastr](https://codeseven.github.io/toastr/demo.html)
 - [Notyf](https://carlosroso.com/notyf/)
